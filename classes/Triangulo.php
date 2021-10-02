@@ -2,7 +2,7 @@
 
     class Triangulo{
 
-        //Conexão Database
+        //Database
         private $pdo;
 
         //Colunas Database
