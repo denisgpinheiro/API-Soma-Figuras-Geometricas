@@ -33,8 +33,5 @@
         $array['error'] = 'Erro: O metodo da requisicao precisa ser POST.';
     }
 
-
     require_once('../../config/return.php');
-
-
 ?>

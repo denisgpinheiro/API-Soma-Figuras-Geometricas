@@ -31,8 +31,5 @@
         $array['error'] = 'Erro no método. Precisa ser POST.';
     }
 
-
     require_once('../../config/return.php');
-
-
 ?>
