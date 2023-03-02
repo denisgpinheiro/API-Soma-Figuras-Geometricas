@@ -1,5 +1,4 @@
-# emCash
-## API que contenha uma rota que permita cadastrar retângulos, outra que permita cadastrar triângulos, e uma rota que traga a soma de todas as áreas dos polígonos cadastrados.
+## API contém uma rota que permite cadastrar retângulos, outra que permite cadastrar triângulos, e uma rota que faz a soma de todas as áreas dos polígonos cadastrados.
 
 ### 🎲 Rotas
 
